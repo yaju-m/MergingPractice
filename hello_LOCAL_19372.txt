@@ -10,11 +10,5 @@
 =======
 \f0\fs24 \cf0 <<<<<<< HEAD:hello.txtmuhahahahahahahahahello friend\
 \
-<<<<<<< HEAD
 Lllllollll SAD SAD DAYYYYYY}
->>>>>>> origin/gitpractice
-=======
-Lllllollll\
-\
-ok}
 >>>>>>> origin/gitpractice
